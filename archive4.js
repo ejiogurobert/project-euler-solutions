@@ -23,4 +23,5 @@ function largestPalindromeProduct(n) {
   }
   return highest;
 }
+
 console.log(largestPalindromeProduct(2));
